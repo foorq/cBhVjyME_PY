@@ -20,11 +20,11 @@ You will need to install the following Python libraries to run the project:
 ## Usage
 This project does not require any specific configuration or command-line arguments. Simply download the files and run the Python script:
 
-1. Navigate to the project directory:
-   ```
-   cd ../beginner_python
-   ```
-2. Run the Python script:
-   ```
-   python main.py
-   ```
+- Navigate to the project directory:
+```
+cd ../beginner_python
+```
+- Run the Python script:
+```
+python main.py
+```
