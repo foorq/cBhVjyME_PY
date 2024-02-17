@@ -14,17 +14,17 @@ In this project, I am experimenting with Python to explore math and language-rel
 Before running the data analysis project, ensure you have Python installed on your computer. You can download Python from the [official website](https://www.python.org/downloads/).
 
 ### Installing Required Libraries
-You will need to install the following Python libraries to run the project:
+You will need to install the following Python library to run the project:
 - colorama: `pip install colorama`
 
 ## Usage
 This project does not require any specific configuration or command-line arguments. Simply download the files and run the Python script:
 
-- Navigate to the project directory:
+Navigate to the project directory:
 ```
 cd ../beginner_python
 ```
-- Run the Python script:
+Run the Python script:
 ```
 python main.py
 ```
